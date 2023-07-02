@@ -4,6 +4,7 @@ Products.CMFCore Changelog
 2.7.1 (unreleased)
 ------------------
 
+- Improve handling of PortalFolder filter input.
 
 2.7.0 (2022-12-16)
 ------------------
