@@ -5,6 +5,7 @@ Products.CMFCore Changelog
 ------------------
 
 - Improve handling of PortalFolder filter input.
+  Backport from 3.2 release, as at der Freitag we are still on version 2.7.0.
 
 2.7.0 (2022-12-16)
 ------------------
